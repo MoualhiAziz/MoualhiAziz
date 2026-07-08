@@ -1,11 +1,5 @@
-<h1 align="center">Hi, I'm Aziz</h1>
-
-<h3 align="center">
-AI • Embedded Systems • Industrial Engineering • Renewable Energy
-</h3>
-
 <p align="center">
-<img src="./cover.jpg" width="100%">
+<img src="./cover1.png" width="100%">
 </p>
 
 # Hey there!  I'm Aziz Moualhi<br><br> **Instrumentation & Industrial Maintenance Engineering Student**<br> Building intelligent systems where **AI meets Engineering**<br><br>---<br><br>
