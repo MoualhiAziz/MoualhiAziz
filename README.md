@@ -2,9 +2,10 @@
 <img src="./cover1.png" width="100%">
 </p>
 
-# Hey there!  I'm Aziz Moualhi<br><br> **Instrumentation & Industrial Maintenance Engineering Student**<br> Building intelligent systems where **AI meets Engineering**<br><br>---<br><br>
-## 💡 About Me<br><br>I design intelligent engineering systems at the intersection of **Machine Learning**, **Industrial Maintenance**, **Embedded Control**, and **Renewable Energy**.<br><br>I love taking ideas from a sketchbook to a working prototype—whether that's training an AI model, programming an ESP32, designing a mechanical assembly, or developing a modern web application.<br><br>When I'm not engineering something, you'll probably find me:<br><br>🎨 Creating digital art & UI designs<br>🏋️ Lifting weights and pushing my limits<br>🎮 Gaming and exploring immersive worlds<br>📚 Learning new technologies just for the fun of it<br><br>---<br><br>
-## 🚀 Currently Exploring<br><br>🧠 Artificial Intelligence & Deep Learning<br>🔧 Predictive Maintenance (PHM)<br>📡 Embedded Systems & IoT<br>⚙️ Industrial Automation & Instrumentation<br>🌿 Renewable Energy Solutions<br>🌐 Full-Stack Development with Next.js<br><br>---<br><br>
+# Hey there!  I'm Aziz Moualhi<br><br>⚙️**Instrumentation & Industrial Maintenance Engineering Student**⚙️<br>    Building intelligent systems where **AI meets Engineering**<br><br><br><br>
+## 💡 About Me<br><br>I design intelligent engineering systems at the intersection of **Machine Learning**, **Industrial Maintenance**, **Embedded Control**, and **Renewable Energy**.<br><br>I love taking ideas from a sketchbook to a working prototype—whether that's training an AI model, programming an ESP32, designing a mechanical assembly, or developing a modern web application.<br><br>When I'm not engineering something, you'll probably find me:<br><br>🎨 Creating digital art & UI designs<br>🏋️ Lifting weights and pushing my limits<br>🎮 Gaming and exploring immersive worlds<br>📚 Learning new technologies just for the fun of it<br><br>
+<br><br>
+## 🚀 Currently Exploring<br><br>🧠 Artificial Intelligence & Deep Learning<br>🔧 Predictive Maintenance (PHM)<br>📡 Embedded Systems & IoT<br>⚙️ Industrial Automation & Instrumentation<br>🌿 Renewable Energy Solutions<br>🌐 Full-Stack Development with Next.js<br><br><br><br>
 ### 📫 Let's Connect!<br><br>I'm always open to collaborating on AI, robotics, embedded systems, industrial automation, renewable energy, and open-source projects.<br><br>⭐ Thanks for stopping by—feel free to explore my repositories!<br>
 
 
@@ -21,7 +22,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://komarev.com/ghpvc/?username=MoualhiAziz&icon=7&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
